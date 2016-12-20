@@ -60,3 +60,7 @@ The right of citizens of the United States to vote shall not be denied or abridg
 #### Section 2.
 The Congress shall have the power to enforce this article by appropriate legislation.
 
+## Amendment XVI
+Note: Article I, section 9, of the Constitution was modified by amendment 16.
+The Congress shall have power to lay and collect taxes on incomes, from whatever source derived, without apportionment among the several States, and without regard to any census or enumeration.
+
